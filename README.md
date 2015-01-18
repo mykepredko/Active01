@@ -3,7 +3,7 @@ Active01
 
 Scratch demonstration Program
 
-Move arouind
+Move around randomly using the "Random" Math Block
 
 ### Project Information
 ```
